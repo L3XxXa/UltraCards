@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UltraCards</string>
+    <string name="card_serial_number">CARD SERIAL NUMBER:</string>
+    <string name="set_up_card">Set up card</string>
+    <string name="emulate_card">EMULATE card</string>
+</resources>
